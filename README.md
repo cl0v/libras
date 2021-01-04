@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+My sdk version is 26, but it is required at least version 28 of the android to run the TFlite
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
